@@ -74,6 +74,7 @@ Projeto de programação desenvolvido como exercício prático para aprimorar co
 - LinkedIn: [Meu perfil profissional](www.linkedin.com/in/murilo-araújo-a730b5408)
 - GitHub: [@muriloluzm07-code](https://github.com/muriloluzm07-code)
 - Whatsapp: (61)99327-0325
+- Email: muriloluzm@gmail.com
 - Instagram: @muriloluzm
 ---
 
