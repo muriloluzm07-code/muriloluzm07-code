@@ -44,12 +44,13 @@ Atualmente, estudo e desenvolvo conhecimentos nas seguintes tecnologias:
 Aqui você encontrará projetos acadêmicos e pessoais desenvolvidos durante minha jornada de aprendizado em Engenharia de Software.
 
 #Reservei — Sistema de Reservas para Restaurante
-Projeto acadêmico voltado à experiência do usuário (Ux) e à organização de reservas de mesas em restaurante real, desenvolvido com prototipação no Figma e documentação de dados e informações no Miro como:
--briefing, benchmarking, matriz csd, levantamento de requisitos, personas, levantamento quantitativo, desk research, entrevista, bullseye framework e prototipação de baixa e alta fidelidade.
--link: https://miro.com/app/board/uXjVGrZ39eA=/?share_link_id=985268310803
+Projeto acadêmico voltado à experiência do usuário (Ux) com o objetivo de construir um Protótipo de Aplicativo cujo objetivo se dá pela demanda real de organização de reservas de mesas em retaurante (local de trabalho de um dos integrantes da equipe), desenvolvido com prototipação no Figma e documentação de dados e informações no Miro como:
+- briefing, benchmarking, matriz csd, levantamento de requisitos, personas, levantamento quantitativo, desk research, entrevista, bullseye framework e prototipação de baixa e alta fidelidade.
+- link: https://miro.com/app/board/uXjVGrZ39eA=/?share_link_id=985268310803
+- link: https://www.figma.com/design/9sqB3UD3nevmQ0eVgxeWIK/Sistema-ReservEI?m=auto&t=dX4vYFQbFcwSwF92-6
 
-## Calculadora em Python
-Projeto de programação desenvolvido como exercício prático para aprimorar conhecimentos em lógica de programação e Python, bem como o trabalho em grupo junto com o controle de versão com Git e GitHub.
+## Desafio colaborativo 
+Projeto de programação desenvolvido como exercício prático para aprimorar conhecimentos em lógica de programação construindo uma calculadora simples em Python,, bem como o trabalho em grupo junto com o controle de versão com Git e GitHub.
 
 ---
 
