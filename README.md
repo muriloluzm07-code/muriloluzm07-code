@@ -1,16 +1,75 @@
-## Hi there 👋
+# Olá! Eu sou Murilo Araújo 
 
-<!--
-**muriloluzm07-code/muriloluzm07-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Estudante de Engenharia de Software | UDF
 
-Here are some ideas to get you started:
+Sou estudante de Engenharia de Software e tenho interesse em tecnologia, desenvolvimento de sistemas e inovação. Estou em constante aprendizado, buscando desenvolver minhas habilidades técnicas e ampliar meus conhecimentos sobre o universo da tecnologia de maneira criativa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu objetivo é construir uma carreira na área de desenvolvimento de software, participando de projetos e adquirindo experiências que contribuam para minha formação profissional.
+
+---
+
+### Tecnologias e ferramentas
+
+Atualmente, estudo e desenvolvo conhecimentos nas seguintes tecnologias:
+
+**Linguagens de programação**
+- Python
+- C
+- JavaScript
+
+**Desenvolvimento Web**
+- HTML5
+- CSS3
+
+**Ferramentas**
+- Git
+- GitHub
+- Figma
+- Miro
+- Excel
+- VS Code
+
+**Áreas de interesse**
+- Engenharia de Software
+- UX/UI Design
+- Engenharia de Requisitos
+- Inteligência Artificial
+- Desenvolvimento de Software
+- Suporte
+
+---
+
+## Projetos
+
+Aqui você encontrará projetos acadêmicos e pessoais desenvolvidos durante minha jornada de aprendizado em Engenharia de Software.
+
+#Reservei — Sistema de Reservas para Restaurante
+Projeto acadêmico voltado à experiência do usuário (Ux) e à organização de reservas de mesas em restaurante real, desenvolvido com prototipação no Figma e documentação de dados e informações no Miro como:
+-briefing, benchmarking, matriz csd, levantamento de requisitos, personas, levantamento quantitativo, desk research, entrevista, bullseye framework e prototipação de baixa e alta fidelidade.
+-link: https://miro.com/app/board/uXjVGrZ39eA=/?share_link_id=985268310803
+
+## Calculadora em Python
+Projeto de programação desenvolvido como exercício prático para aprimorar conhecimentos em lógica de programação e Python, bem como o trabalho em grupo junto com o controle de versão com Git e GitHub.
+
+---
+
+### Atualmente aprendendo
+
+- Modelagem de Banco de dados.
+- Desenvolvimento front-end para web.
+- Design Profssional.
+- Controle de versão com Git e GitHub.
+- Boas práticas de programação.
+- Inteligência Artificial.
+
+---
+
+### Contato
+
+- LinkedIn: [Meu perfil profissional](www.linkedin.com/in/murilo-araújo-a730b5408)
+- GitHub: [@muriloluzm07-code](https://github.com/muriloluzm07-code)
+- Whatsapp: (61)99327-0325
+- Instagram: @muriloluzm
+---
+
+Obrigado por visitar meu perfil!
