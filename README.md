@@ -1,5 +1,5 @@
-# Olá! Eu sou Murilo Araújo 
-
+# Opa, tranquilo?!
+# Seja bem vindo ao meu perfil, sou o Murilo Araújo
 # Estudante de Engenharia de Software | UDF
 
 Sou estudante de Engenharia de Software e tenho interesse em tecnologia, desenvolvimento de sistemas e inovação. Estou em constante aprendizado, buscando desenvolver minhas habilidades técnicas e ampliar meus conhecimentos sobre o universo da tecnologia de maneira criativa.
