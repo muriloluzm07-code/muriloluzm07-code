@@ -53,7 +53,7 @@ Projeto acadêmico voltado à experiência do usuário (Ux) com o objetivo de co
 Projeto de programação desenvolvido como exercício prático para aprimorar conhecimentos em lógica de programação construindo uma calculadora simples em Python,, bem como o trabalho em grupo junto com o controle de versão com Git e GitHub.
 
 ## Participação em eventos
-- CCBB digital week;
+- BB digital week;
 - Curso de Algorítmos e Lógica de programação direcionado pela mestra em Ciência da Informação Kadidja Valéria;
 
 ---
